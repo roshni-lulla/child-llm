@@ -1,0 +1,63 @@
+{
+  "monologue_id": "baseline_v1",
+  "seed": 12345,
+  "language": "en-US",
+  "culture": "US",
+  "child_profile": {
+    "name": "Ari",
+    "birthdate": "2025-01-01",
+    "sex": "F",
+    "personality": {
+      "openness": 0.6,
+      "conscientiousness": 0.4,
+      "extraversion": 0.3,
+      "agreeableness": 0.7,
+      "neuroticism": 0.5
+    },
+    "temperament_tags": [
+      "curious",
+      "sensitive_to_noise"
+    ],
+    "special_needs": []
+  },
+  "caregivers": [
+    {
+      "name": "Maya",
+      "relation": "mother",
+      "age": null,
+      "personality": null
+    },
+    {
+      "name": "Dev",
+      "relation": "father",
+      "age": null,
+      "personality": null
+    }
+  ],
+  "environment": {
+    "home_type": "apartment",
+    "city": "Seattle",
+    "timezone": "America/Los_Angeles",
+    "socioeconomic_status": "middle",
+    "cultural_background": "US",
+    "siblings": []
+  },
+  "timeline": {
+    "weekly_plan_file": null,
+    "vocabulary_bands": {
+      "1": 2000,
+      "2": 3000,
+      "3": 5000,
+      "4": 5000,
+      "5": 7000
+    },
+    "milestones": [],
+    "scheduled_events": [],
+    "personality_events": []
+  },
+  "style": {
+    "sentence_length": "short",
+    "tone": "observational",
+    "narrative_continuity": "high"
+  }
+}

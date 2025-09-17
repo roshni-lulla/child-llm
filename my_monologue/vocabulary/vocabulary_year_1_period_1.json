@@ -1,0 +1,21 @@
+{
+  "year": 1,
+  "max_tokens": 1000,
+  "developmental_stage": "pre-linguistic",
+  "cognitive_focus": "sensory_integration",
+  "language_characteristics": [
+    "cooing",
+    "crying",
+    "babbling",
+    "sound recognition",
+    "gesture communication"
+  ],
+  "forbidden_patterns": [
+    "words",
+    "sentences",
+    "complex sounds",
+    "abstract concepts",
+    "verbal communication"
+  ],
+  "core_vocabulary": []
+}

@@ -1,0 +1,44 @@
+{
+  "year": 1,
+  "max_tokens": 2000,
+  "developmental_stage": "sensorimotor",
+  "cognitive_focus": "intentional_communication",
+  "language_characteristics": [
+    "first words",
+    "gesture combinations",
+    "object naming",
+    "simple requests"
+  ],
+  "forbidden_patterns": [
+    "complex sentences",
+    "future tense",
+    "abstract concepts",
+    "pronouns"
+  ],
+  "core_vocabulary": [
+    "mama",
+    "dada",
+    "ball",
+    "dog",
+    "cat",
+    "milk",
+    "up",
+    "down",
+    "more",
+    "all-done",
+    "no",
+    "yes",
+    "bye-bye",
+    "hi",
+    "book",
+    "toy",
+    "hungry",
+    "sleepy",
+    "hot",
+    "cold",
+    "big",
+    "small",
+    "car",
+    "truck"
+  ]
+}
